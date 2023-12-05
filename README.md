@@ -1,7 +1,11 @@
-# buy me a coffee
+# smart fundraise
 
-try app here: https://buy-me-a-coffee-frontend.marcellamalune.repl.co/
+## Setup
+* Use `npm install` to install the dependencies.  
+* Use `next dev` to run the code in dev enviroment.
 
-required metamask on goerli test network
-
-backend repo: https://github.com/marcellamalune/buy-me-a-coffee
+## Page Preview
+* Index Page
+![img.png](index.png)
+* Detail Page
+![img_1.png](detail.png)
